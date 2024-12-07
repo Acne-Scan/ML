@@ -20,7 +20,7 @@ AcneScan is a machine learning-based project designed to detect different types 
    - Using various types of image augmentation to add more data.
 
 4. **Model Architecture**:  
-   - **Transfer Learning**: Utilized EfficientNet50 as the base model for feature extraction, pretrained on ImageNet.  
+   - **Transfer Learning**: Utilized EfficientNetB0 as the base model for feature extraction, pretrained on ImageNet.  
    - **Data Augmentation**: Applied transformations to enhance the diversity of the training dataset.  
    - **Global Average Pooling**: Added to reduce the spatial dimensions of feature maps from EfficientNet50.  
    - **Dense Layers**:  
@@ -46,15 +46,18 @@ AcneScan is a machine learning-based project designed to detect different types 
        - `amsgrad`: True  
    - **Loss Function**: `Categorical Crossentropy`.  
    - **Metrics**: Accuracy, Precision, Recall.  
+   ![Train and Val Accuracy](Result/train%20and%20validation%20accuracy.png)  
 
 6. **Evaluation**:  
    - Evaluated on validation and test datasets to measure performance.
    - Using F1 Score and Confusion Metrics to evaluate the model performance.
-   - Our model accuracy is very high. It has 100% on training, 99% on validation, 98% on test F1 score.
+   - Our model accuracy is very high. It has 100% on training, 99% on validation, 98% on test F1 score.  
+   ![Evaluation Result](Result/evaluate_result.png)  
+   ![Confusion Matrix](Result/confusion_matrix.png)
 
 7. **Deployment**:  
    - Model is converted to TensorFlow Lite for integration into Android application.
-   - The model was deployed to Cloud as cloud run.  
+   - The model was deployed to Google Cloud Platform as cloud run.  
 
 ## Tools and Libraries  
 
