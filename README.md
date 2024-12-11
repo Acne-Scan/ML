@@ -70,7 +70,7 @@ AcneScan is a machine learning-based project designed to detect different types 
   - `layers` and `Model`: For constructing the model architecture.  
   - `Rescaling`: For image normalization during preprocessing.  
   - `ImageDataGenerator`: For augmenting and managing image datasets.  
-  - `EfficientNetB1` and `InceptionV3`: Pre-trained models for transfer learning.  
+  - `EfficientNetB0`: Pre-trained models for transfer learning.  
 - **Callbacks**:  
   - `ReduceLROnPlateau`: To dynamically adjust the learning rate during training.  
 - **Metrics**:  
