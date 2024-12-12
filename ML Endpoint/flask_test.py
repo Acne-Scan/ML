@@ -71,25 +71,25 @@ RECOMMENDATIONS = {
 
 PRODUCT_IMAGES = {
     'Blackheads': {
-        'CeraVe Renewing SA Cleanser': 'https://storage.googleapis.com/acne-scan-storage/Benzolac.webp',
+        'CeraVe Renewing SA Cleanser': 'https://storage.googleapis.com/acne-scan-storage/Cerave.png',
         'Some By Mi AHA BHA PHA 30 Days Miracle Toner': 'https://storage.googleapis.com/acne-scan-storage/Some%20By%20Mi%20AHA%20BHA%20Toner.png',
         'Avoskin Miraculous Retinol Ampoule': 'https://storage.googleapis.com/acne-scan-storage/Avoskin%20Miraculous%20Retinol%20Ampoule.jpg',
         'Wardah Acnederm Day Moisturizer': 'https://storage.googleapis.com/acne-scan-storage/Wardah%20Acnederm%20Moist.png'
     },
     'Cyst': {
         'Hada Labo Gokujyun Ultimate Moisturizing Face Wash': 'https://storage.googleapis.com/acne-scan-storage/Hada%20Labo%20Cleanser.png',
-        'Benzolac 2.5%': 'https://storage.googleapis.com/acne-scan-storage/Benzolac.webp',
-        'JF Sulfur Acne Care': 'https://storage.googleapis.com/acne-scan-storage/JF%20Sulvur.webp'
+        'Benzolac 2.5%': 'https://storage.googleapis.com/acne-scan-storage/Benzolac%202.5.png',
+        'JF Sulfur Acne Care': 'https://storage.googleapis.com/acne-scan-storage/JF%20Sulvur.png'
     },
     'Papules': {
-        'The Tea Tree Skin Clearing Facial Wash': 'https://storage.googleapis.com/acne-scan-storage/Tea%20Tree%20Facial%20Wash.webp',
+        'The Tea Tree Skin Clearing Facial Wash': 'https://storage.googleapis.com/acne-scan-storage/Tea%20Tree%20Facial%20Wash.png',
         'Somethinc Niacinamide + Moisture Beet Serum': 'https://storage.googleapis.com/acne-scan-storage/Somethinc%20Niacinamide%20%2B%20Moisture%20Beet%20Serum.jpg',
-        'Benzolac 2.5%': 'https://storage.googleapis.com/acne-scan-storage/Benzolac.webp'
+        'Benzolac 2.5%': 'https://storage.googleapis.com/acne-scan-storage/Benzolac%202.5.png'
     },
     'Pustules': {
-        'The Tea Tree Skin Clearing Facial Wash': 'https://storage.googleapis.com/acne-scan-storage/Tea%20Tree%20Facial%20Wash.webp',
-        'Wardah Acnederm Pure Foaming Cleanser': 'https://storage.googleapis.com/acne-scan-storage/Wardah%20Acnederm%20Cleanser.webp',
-        'Benzolac 2.5%': 'https://storage.googleapis.com/acne-scan-storage/Benzolac.webp'
+        'The Tea Tree Skin Clearing Facial Wash': 'https://storage.googleapis.com/acne-scan-storage/Tea%20Tree%20Facial%20Wash.png',
+        'Wardah Acnederm Pure Foaming Cleanser': 'https://storage.googleapis.com/acne-scan-storage/Wardah%20Acnederm%20Cleanser.jpeg',
+        'Benzolac 2.5%': 'https://storage.googleapis.com/acne-scan-storage/Benzolac%202.5.png'
     },
     'Whiteheads': {
         'Safi White Expert Oil Control & Acne Cleanser': 'https://storage.googleapis.com/acne-scan-storage/Safi%20Cleanser.jpg',
